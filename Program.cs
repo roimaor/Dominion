@@ -10,7 +10,7 @@ namespace Dominion
 			// This is a note
 			DominionGame game = new DominionGame();
 
-			// This is a note
+			//This is a comment
 			game.start();
 
 		}
