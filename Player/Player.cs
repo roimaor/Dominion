@@ -7,6 +7,7 @@ namespace Dominion
 {
 	public class Player : IComparable<Player>
 	{
+		// This is a player class
 		private string name;
 		private int roundsPlayed;
 		private int actionsCounter;
