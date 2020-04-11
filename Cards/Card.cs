@@ -6,6 +6,7 @@ namespace Dominion
 {
 	public abstract class Card
 	{
+		// This is a card class
 		public delegate void SpecialEffect();
 
 		private string name;
