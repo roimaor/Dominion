@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dominion": {
+      "commandName": "Project",
+      "commandLineArgs": "Roi Dekel"
+    }
+  }
+}

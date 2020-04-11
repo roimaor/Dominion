@@ -1,0 +1,13 @@
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.csprojAssemblyReference.cache
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.csproj.CoreCompileInputs.cache
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.AssemblyInfoInputs.cache
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.AssemblyInfo.cs
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.exe
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.deps.json
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.runtimeconfig.json
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.runtimeconfig.dev.json
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.dll
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\bin\Debug\netcoreapp3.1\Dominion.pdb
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.dll
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.pdb
+C:\Users\roimaor\source\repos\MyTutorial\Dominion\obj\Debug\netcoreapp3.1\Dominion.genruntimeconfig.cache
